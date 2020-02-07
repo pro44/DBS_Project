@@ -1,8 +1,8 @@
 # DBS_Project
 
-Admin Folder -> Admin Panel or CMS
-Kusina -> Main Restaurant Website
-restaurant_system -> Database Exported File
+Admin Folder -> Admin Panel or CMS<br>
+Kusina -> Main Restaurant Website<br>
+restaurant_system -> Database Exported File<br>
 
-username: admin
+username: admin<br>
 password: admin
